@@ -125,6 +125,7 @@ pytest tests/ -v --cov=. --cov-report=term-missing
 - [Contributing](CONTRIBUTING.md) — how to set up, branch, test, and submit a change
 - [AGENTS.md](AGENTS.md) — guidance for AI coding agents working in this repo
 - [Customer handover](docs/customer-handover.md) — current transition/handover state, access, known limitations
+- [Hosting transfer guide](docs/hosting-transfer-guide.md) — step-by-step: moving Render/Vercel hosting to a new account
 - [User stories](docs/user-stories.md)
 - [Architecture documentation](docs/architecture/README.md) — component, sequence, and deployment views, plus ADRs
 - [Development process](docs/development-process.md) — git workflow, PR process, CI pipeline, configuration management

@@ -68,6 +68,11 @@ are in [README.md](../README.md#getting-started-local-development).
 4. Verify all three services are reachable and the frontend can complete a
    full flow (sign up, upload a menu, get recommendations) end to end.
 
+> For the specific case of moving hosting from the team's Render/Vercel
+> accounts to your own (including migrating existing data), see
+> [docs/hosting-transfer-guide.md](hosting-transfer-guide.md) — a detailed
+> walkthrough rather than this general-purpose summary.
+
 > Note: free-tier hosting (as currently used) may sleep after inactivity,
 > adding 5–15s latency to the first request — factor this in when choosing
 > a hosting tier.
